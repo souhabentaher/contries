@@ -3,13 +3,16 @@
         {
             "States": [
                 {
-                    "Cities": [],
+                    "Cities": [
+                        "Commune Ariana 1",
+                        "Commune Ariana 2"
+                    ],
                     "StateName": "Aryanah"
                 },
                 {
                     "Cities": [
                         "Commune beja 1",
-                        "Commune beja 1"
+                        "Commune beja 2"
                     ],
                     "StateName": "Bajah"
                 },
@@ -127,16 +130,6 @@
                 }
             ],
             "CountryName": "Tunisia"
-        },
-        {
-            "States": [
-                {
-                    "Cities": [
-                        "Eisenstadt"
-                    ],
-                    "StateName": ""
-                }
-            ]
         }
     ]
 }
