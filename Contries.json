@@ -3,6 +3,10 @@
         {
             "States": [
                 {
+                    "reccete": [
+                        "reccete Ariana 1",
+                        "reccete Ariana 2"
+                    ],
                     "Cities": [
                         "Commune Ariana 1",
                         "Commune Ariana 2"
