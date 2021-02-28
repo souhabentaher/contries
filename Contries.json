@@ -3,9 +3,9 @@
         {
             "States": [
                 {
-                    "reccete": [
-                        "reccete Ariana 1",
-                        "reccete Ariana 2"
+                    "Recette": [
+                        "Recette Ariana 1",
+                        "Recette Ariana 2"
                     ],
                     "Cities": [
                         "Commune Ariana 1",
@@ -25,7 +25,14 @@
                     "StateName": "Bin 'Arus"
                 },
                 {
-                    "Cities": [],
+                    "Recette": [
+                        "Recette Binzart 1",
+                        "Recette Binzart 2"
+                    ],
+                    "Cities": [
+                        "Commune Binzart 1",
+                        "Commune Binzart 2"
+                    ],
                     "StateName": "Binzart"
                 },
                 {
