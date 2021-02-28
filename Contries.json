@@ -14,6 +14,10 @@
                     "StateName": "Aryanah"
                 },
                 {
+                    "Recette": [
+                    "Recette Bajah 1",
+                    "Recette Bajah 2"
+                ],
                     "Cities": [
                         "Commune beja 1",
                         "Commune beja 2"
